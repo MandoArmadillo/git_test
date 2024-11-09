@@ -1,0 +1,2 @@
+Text added to follow step 6 of 'Modify a file or two'
+in git basics lesson of The Odin Project
